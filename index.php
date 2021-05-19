@@ -2,7 +2,7 @@
 <title> Compilation </title> <br>
 <head> <!--Functions placed here --> </head>
 <body>
-
+<center><h2>Version 1 by Esmeralda Picana</h2></center>
 <center><h2>first adjustment</h2></center>
 <hr>
 
