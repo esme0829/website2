@@ -5,6 +5,7 @@
 <?php include("index.php");
 ?>
 <head> <!--Version 1 --> </head>
+  <title> version 1 </title>
 while demo <br><hr>
 <?php
 $a=1;
