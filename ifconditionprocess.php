@@ -1,6 +1,6 @@
 <html>
 <title> ifconditionprocess </title> 
-
+<title> version 1 </title>
 <body>
 <?php
 	$prelim= $_POST["text1"];
