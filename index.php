@@ -3,6 +3,7 @@
 <head> <!--Functions placed here --> </head>
 <body>
 <center><h2>Version 1</h2></center>
+	<title> version 1 </title>
 <center><h2>first adjustment</h2></center>
 <hr>
 
