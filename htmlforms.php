@@ -1,6 +1,7 @@
 <html>
 <title> HTML forms </title> 
 <body>
+	<title> version 1 </title>
 <?php include("index.php");
 ?>
 <form method="post" action = " ">
