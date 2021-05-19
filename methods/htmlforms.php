@@ -4,7 +4,7 @@
 <?php include("index.php");
 ?>
 <form method="post" action = " ">
-
+<title> version 1 </title>
 Regular textbox					<input type="text" name="text1" size="30"> <br>
 Required Textbox				<input type="text" name="text2" size="30" required><br>
 Patterned textbox"[0-9]{3,5}"	<input type="text" name="text3" size="30" pattern="[0-9]{3,5}" required><br> <!--[0-9a-zA-Z]-->
