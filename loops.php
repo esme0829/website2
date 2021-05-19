@@ -4,7 +4,7 @@
 <body>
 <?php include("index.php");
 ?>
-
+<head> <!--Version 1 --> </head>
 while demo <br><hr>
 <?php
 $a=1;
