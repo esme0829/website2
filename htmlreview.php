@@ -1,6 +1,7 @@
 <html>
 <title> Gene </title>
 <body>
+	<title> version 1 </title>
 <?php include("index.php");
 ?>
 	<center> HTML Review </center> <br>
