@@ -1,6 +1,6 @@
 <html>
 <title> Loops </title> <br>
-<head> <!--first adjustment --> </head>
+<head> <!--Version 1 by Esmeralda Pican --> </head>
 <body>
 <?php include("index.php");
 ?>
